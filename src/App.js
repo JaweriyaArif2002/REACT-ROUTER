@@ -1,25 +1,21 @@
-import logo from './logo.svg';
-import './App.css';
-
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+// website : react router dom
+// go to cmd 
+// install router command : npm install react-router-dom
+// create folder (Containers) create files (home.js)&(About.js)
+// in Containers folder create a folder (Config) in create a files (Router.js)
+import React from 'react'
+import AppRouter from './Containers/Config/Router'
+class App extends React.Component{
+  render(){
+    return(
+      <div>
+        <AppRouter />
+      
+      </div>
+    )
+  }
 }
 
 export default App;
+
+
