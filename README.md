@@ -15,9 +15,10 @@ in config folder create a file
 ### `Router.js`
 router.js is create for routing the different file
 see documentation in snapshot
+![image](https://user-images.githubusercontent.com/74524557/102094054-ad877a00-3e43-11eb-9f3e-9d20d9c5e0c0.png)
 
-
-
+<br>
+in last go to App.js file then import router.js file see documentation in snapshot
 
 
 Runs the app in the development mode.\
