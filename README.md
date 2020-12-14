@@ -6,13 +6,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, which have src folder 
 in src folder..
-## create a folder (CONTAINERS)
+### `create a folder (CONTAINERS)`
 in containers folder create 2 files and 1 folder
-## Home.js
-## About.js
-## folder(CONFIG)
+### `Home.js`
+### `About.js`
+### `folder(CONFIG)`
 in config folder create a file
-## Router.js
+### `Router.js`
 
 ### `npm start`
 
