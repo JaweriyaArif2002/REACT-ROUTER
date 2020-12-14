@@ -2,9 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## IMPORTANT Scripts
 
-In the project directory, 
+In the project directory, which have src folder 
+in src folder..
+## create a folder (CONTAINERS)
+in containers folder create 2 files and 1 folder
+## Home.js
+## About.js
+## folder(CONFIG)
+in config folder create a file
+## Router.js
 
 ### `npm start`
 
