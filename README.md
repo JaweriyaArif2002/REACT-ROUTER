@@ -18,8 +18,9 @@ see documentation in snapshot
 ![image](https://user-images.githubusercontent.com/74524557/102094054-ad877a00-3e43-11eb-9f3e-9d20d9c5e0c0.png)
 
 <br>
-in last go to App.js file then import router.js file see documentation in snapshot
+in last go to App.js file. in App.js file import router.js file see documentation in snapshot
 
+![image](https://user-images.githubusercontent.com/74524557/102094569-4e763500-3e44-11eb-8e2b-f5f7a2fcc281.png)
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
