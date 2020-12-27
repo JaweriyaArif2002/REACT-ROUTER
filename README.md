@@ -34,8 +34,19 @@ check url <br>
 http://localhost:3000/
 <br>
 http://localhost:3000/About
+<br>
+<br>
+<br>
 Now linking both files App.js and About.js
 <br>
+<br>
 ### `in Home.js`
-
+<br>
 ![image](https://user-images.githubusercontent.com/74524557/103173446-cdc02b80-487c-11eb-9219-af8529226033.png)
+<br>
+<br>
+<br>
+###`in About.js`
+<br>
+![image](https://user-images.githubusercontent.com/74524557/103173483-1a0b6b80-487d-11eb-935a-fbc5773fd95f.png)
+<br>
