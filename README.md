@@ -6,7 +6,7 @@ in src folder..
 in containers folder create 2 files and 1 folder
 ### `Home.js`
 see documentation in snapshot
-
+![image](https://user-images.githubusercontent.com/74524557/103172918-cf87f000-4878-11eb-88eb-5ca775d94b2f.png)
 ### `About.js`
 see documentation in snapshot
 ![image](https://user-images.githubusercontent.com/74524557/102093855-7749fa80-3e43-11eb-8b31-1b130cc1b0a1.png)
