@@ -35,3 +35,7 @@ http://localhost:3000/
 <br>
 http://localhost:3000/About
 Now linking both files App.js and About.js
+<br>
+### `in Home.js`
+
+![image](https://user-images.githubusercontent.com/74524557/103173446-cdc02b80-487c-11eb-9219-af8529226033.png)
