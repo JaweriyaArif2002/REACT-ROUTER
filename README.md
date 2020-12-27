@@ -36,4 +36,4 @@ http://localhost:3000/
 http://localhost:3000/About
 <br>
 <br>
-### `now linking both files Home.js and About.js`
+### `linking`
