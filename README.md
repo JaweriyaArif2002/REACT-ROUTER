@@ -5,9 +5,12 @@ in src folder..
 ### `create a folder (CONTAINERS)`
 in containers folder create 2 files and 1 folder
 ### `Home.js`
+### `About.js`
+### `folder(CONFIG)`
+in ### `Home.js`
 see documentation in snapshot
 ![image](https://user-images.githubusercontent.com/74524557/103172918-cf87f000-4878-11eb-88eb-5ca775d94b2f.png)
-### `About.js`
+in ### `About.js`
 see documentation in snapshot
 ![image](https://user-images.githubusercontent.com/74524557/103172961-4e7d2880-4879-11eb-8857-eeb2c1f6748f.png)
 ### `folder(CONFIG)`
