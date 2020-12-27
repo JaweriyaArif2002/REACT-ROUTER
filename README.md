@@ -1,5 +1,5 @@
 # Getting Started with Create React App 
-install react-router-dom in your react project (https://reactrouter.com/web/guides/quick-start)
+install react-router-dom in your react project https://reactrouter.com/web/guides/quick-start
 In the project directory, which have src folder 
 in src folder..
 ### `create a folder (CONTAINERS)`
