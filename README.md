@@ -34,6 +34,4 @@ check url <br>
 http://localhost:3000/
 <br>
 http://localhost:3000/About
-<br>
-<br>
-### `linking`
+### `Now linking both files App.js and About.js`
